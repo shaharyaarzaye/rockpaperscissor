@@ -1,0 +1,42 @@
+body{
+    background-color: black;
+}
+
+p{
+    text-align: center;
+    font-size: 70px;
+    color: white;
+}
+
+.main{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    color: white;
+}
+
+.rock{
+    display: block;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding:100px;
+    font-size: 50px;
+    border-radius: 20px;
+    
+}
+.Paper{
+    display: block;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding:100px;
+    font-size: 50px;
+    border-radius: 20px;
+
+}
+.Scissor{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding:100px;
+    font-size: 50px;
+    border-radius: 20px;
+}
