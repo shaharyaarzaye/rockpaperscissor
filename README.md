@@ -1,5 +1,5 @@
 # rockpaperscissor
 
-A minimalistic Rock Papaer Scissor Game. I build this just to learn login in javascript.
+A minimalistic Rock Papaer Scissor Game.
 
-https://shaharyaarzaye.github.io/rockpaperscissor/
+Play here :- https://shaharyaarzaye.github.io/rockpaperscissor/
